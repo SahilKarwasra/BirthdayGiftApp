@@ -15,10 +15,10 @@ A beautifully designed Birthday Card App built with **Jetpack Compose**, perfect
 ## Screenshots 📸
 
 ### Splash Screen:
-![Splash Screen](![SplashScreen](https://github.com/user-attachments/assets/75c0a433-c3af-48b9-b10a-c728decf2305))
+![SplashScreen](https://github.com/user-attachments/assets/75c0a433-c3af-48b9-b10a-c728decf2305)
 
 ### Main Card:
-![Main Card](![MainScreen](https://github.com/user-attachments/assets/b29af1a7-5327-41f3-bc88-0790268a1063))
+![MainScreen](https://github.com/user-attachments/assets/b29af1a7-5327-41f3-bc88-0790268a1063)
 
 ---
 
